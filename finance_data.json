@@ -1,0 +1,16 @@
+{
+    "2025-08": {
+        "income": 3000,
+        "expenses": {
+            "food": 250,
+            "transport": 120
+        }
+    },
+    "2025-09": {
+        "income": 3200,
+        "expenses": {
+            "entertainment": 90,
+            "food": 300
+        }
+    }
+}
