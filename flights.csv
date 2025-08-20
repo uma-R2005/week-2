@@ -1,0 +1,6 @@
+flight_number,origin,destination,departure_time,delay_minutes
+AA101,JFK,LAX,08:30,15
+DL205,ATL,ORD,09:15,0
+UA330,SFO,BOS,10:00,45
+SW450,DEN,SEA,12:00,10
+AA202,LAX,JFK,14:00,0
