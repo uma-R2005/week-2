@@ -1,0 +1,4 @@
+Pasta|tomato,cheese,basil
+Omelette|eggs,salt,pepper
+Salad|lettuce,tomato,cucumber
+Cheesecake|cheese,sugar,eggs

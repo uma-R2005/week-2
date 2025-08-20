@@ -1,0 +1,17 @@
+Deposited: $1000.00
+Withdrew: $200.00
+Deposited: $500.00
+Withdrew: $100.00
+Deposited: $750.00
+Withdrew: $300.00
+Deposited: $1200.00
+Withdrew: $400.00
+Deposited: $600.00
+Withdrew: $150.00
+Withdrew: $50.00
+Deposited: $250.00
+Withdrew: $700.00
+Deposited: $800.00
+Withdrew: $900.00
+
+Final Balance: $2300.00

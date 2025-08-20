@@ -1,0 +1,3 @@
+Total recipes: 4
+Recipes containing 'cheese': 2
+Recipe names: Pasta, Cheesecake
